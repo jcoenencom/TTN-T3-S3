@@ -19,4 +19,4 @@ RadioLib used to manage the RF module.
 
 A combined module AHT20 + BMP280 has been connected on PIN 15 and 16 defined as secondary I2C bus, the first bus being used for the SSD1306 OLED display, but as PIN 17 is not exposed on the board it cannot be used to connect additional I2C devices.
 
-[The example RadioLib OTAA](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/tree/master/examples/LoRaWAN/RadioLib_OTAA) has been used to connect to TTN.
+[The example RadioLib ABP](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/tree/master/examples/LoRaWAN/RadioLib_OTAA) has been used to connect to TTN.
