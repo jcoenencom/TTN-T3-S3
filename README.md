@@ -11,6 +11,8 @@ VLC can handilly be used for the editorial contents (README/WiKi)
 
 Experimentation with TTN.
 
+See the Wiki for further information on setup/configuration.
+
 Using TTGo Modules on 868 MHz.
 
 RadioLib used to manage the RF module.
